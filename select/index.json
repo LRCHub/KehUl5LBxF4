@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "おとめの肖像",
+  "base_artist": "Reol",
+  "createdAt": "2026-02-14T14:05:35.841921Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "おとめの肖像",
+      "artist": "Reol",
+      "has_synced": false,
+      "path": "select/pl_01_おとめの肖像_Reol.txt"
+    }
+  ]
+}
